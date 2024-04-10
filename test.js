@@ -1,2 +1,2 @@
 document.body.style.background("red");
-document.write("boob");
+console.write("boob");
