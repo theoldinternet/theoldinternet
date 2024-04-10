@@ -1,1 +1,1 @@
-document.title("boo");
+document.title = "shit";
